@@ -10,6 +10,8 @@ To allow AbyssBox to detect the audio link, you must format the link into a spec
 Ex:
 "https://github.com/RediStickman/Redi_Audio_File_Garden_Abyssbox/blob/main/Genesis_sft/sonic_drown1.ogg",
 is the link to the page, which is NOT we want.
+
 Instead we must replace the, "https://github.com/RediStickman/" with, "https://redistickman.github.io/". <----- (This one boss!)
+
 This allows AbyssBox to recognize the file and goes in error free.
 And with these instructions, we have a result of, "https://redistickman.github.io/Redi_Audio_File_Garden_Abyssbox/blob/main/Genesis_sft/sonic_drown1.ogg".
