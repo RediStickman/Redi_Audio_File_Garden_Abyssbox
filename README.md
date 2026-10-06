@@ -13,8 +13,8 @@ Ex:
 "https://github.com/RediStickman/Redi_Audio_File_Garden_Abyssbox/blob/main/Genesis_sft/sonic_drown1.ogg",
 is the link to the page, which is NOT we want.
 
-IMPORTANT RULES -- (Go to your URL)
-Instead we must REPLACE the, "https://github.com/RediStickman/" with, "https://redistickman.github.io/". <----- (This one boss!)
+IMPORTANT RULES -- (Go to your URL, and look for that exact text)
+Instead we must REPLACE the, "github.com/RediStickman/" with, "redistickman.github.io/". <----- (This one boss!)
 Next, we must REMOVE the "/blob/main" which gets us straight to the content. <----- (sneaky little twat)
 
 This allows AbyssBox to recognize the file and goes in error free.
